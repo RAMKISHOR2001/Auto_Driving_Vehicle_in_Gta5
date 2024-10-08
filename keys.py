@@ -1,4 +1,4 @@
-# Code by Daniel Kukiela (https://twitter.com/daniel_kukiela)
+
 
 import ctypes
 from threading import Thread
