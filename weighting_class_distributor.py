@@ -1,7 +1,3 @@
-'''
-After noticing such a substantial improvment 2.6% after my own manual changes,
-validating my expectations, i've decided to automate this process.
-'''
 import keras
 import os
 import pickle
